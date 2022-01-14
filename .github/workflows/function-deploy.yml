@@ -10,7 +10,7 @@ on:
       - main
 
 env:
-  AZURE_FUNCTIONAPP_NAME: nfl-draft-api
+  AZURE_FUNCTIONAPP_NAME: nfl-draft-refresh
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '12.x'
 
